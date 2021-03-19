@@ -3,7 +3,7 @@
 - 👀 我感興趣的是... C ++，JavaScript，SwiftUI和Xcode
 - 🌱 我目前正在學習... PHP，Go Lang 和 ReactJs
 - 💞️ 我希望在... Vue.js上進行合作
-- 📫 如何與我聯繫... claytonliew.techlabz@gmail.com
+- 📫 如何與我聯繫... claytonliew22@gmail.com
 
 <!---
 14041980ClaytonChLiew/14041980ClaytonChLiew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
