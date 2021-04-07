@@ -15,24 +15,27 @@
 
 ## 👀 我可以編碼的計算機語言
 - HTML
-![image](https://user-images.githubusercontent.com/72314373/113931829-d95fae80-97ea-11eb-99b3-8e5c213f1cfa.png)
 
+![image](https://user-images.githubusercontent.com/72314373/113935430-7708ad00-97ee-11eb-9c35-8e01e449f48d.png)
 - CSS
-![image](https://user-images.githubusercontent.com/72314373/113931791-cbaa2900-97ea-11eb-93c6-7511fbe9f8bd.png)
+
+![image](https://user-images.githubusercontent.com/72314373/113935482-87208c80-97ee-11eb-9b3c-001e8b7650d2.png)
 - JavaScript
-![image](https://user-images.githubusercontent.com/72314373/113931887-ea102480-97ea-11eb-99a7-96fd91b89d5d.png)
 
+![image](https://user-images.githubusercontent.com/72314373/113935562-9acbf300-97ee-11eb-928d-e108211ca252.png)
 - Python
-![image](https://user-images.githubusercontent.com/72314373/113931916-f300f600-97ea-11eb-9ad9-f1dc3a6acfff.png)
 
+![image](https://user-images.githubusercontent.com/72314373/113935623-a6b7b500-97ee-11eb-8a88-9aee41f79d0f.png)
 - C++
-![image](https://user-images.githubusercontent.com/72314373/113931944-fbf1c780-97ea-11eb-9be3-167bc5aeed57.png)
 
+![image](https://user-images.githubusercontent.com/72314373/113935724-c7800a80-97ee-11eb-9bb2-f2c8b3deab30.png)
 - Go
-![image](https://user-images.githubusercontent.com/72314373/113932025-12981e80-97eb-11eb-89d0-d66685fe56c7.png)
 
+![image](https://user-images.githubusercontent.com/72314373/113935756-d1a20900-97ee-11eb-8fa9-9f6a81591c32.png)
 - C#
-![image](https://user-images.githubusercontent.com/72314373/113932067-1b88f000-97eb-11eb-8d68-49df7e249d22.png)
+
+![image](https://user-images.githubusercontent.com/72314373/113935809-e1215200-97ee-11eb-83a5-23862cd8a55f.png)
+
 
 
 ## 👨‍🏫 我目前正在學語言... 
