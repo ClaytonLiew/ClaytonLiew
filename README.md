@@ -41,11 +41,15 @@
 
 ## 👨‍🏫 我目前正在學語言... 
 - PHP
-![image](https://user-images.githubusercontent.com/72314373/113932269-5428c980-97eb-11eb-98bc-a579791caf11.png)
+
+![image](https://user-images.githubusercontent.com/72314373/113936101-3fe6cb80-97ef-11eb-8d51-2b8644779f7e.png)
 - Vue.js
-![image](https://user-images.githubusercontent.com/72314373/113932316-5ee35e80-97eb-11eb-962a-3df3de8bf214.png)
+
+![image](https://user-images.githubusercontent.com/72314373/113936126-4bd28d80-97ef-11eb-9a5d-d751264d4cf7.png)
 - React.js
-![image](https://user-images.githubusercontent.com/72314373/113932374-6d317a80-97eb-11eb-8c8a-1d70d0034547.png)
+
+![image](https://user-images.githubusercontent.com/72314373/113936218-63aa1180-97ef-11eb-9090-56209d32e167.png)
+
 
 ## 💻 我使用的操作系統
 - Windows
