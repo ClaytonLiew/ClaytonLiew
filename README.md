@@ -1,12 +1,16 @@
 ## 👋 您好，我是 @14041980ClaytonChenxiLiew**
 ## 👩‍💻 我開發技術並與之互動
 - SwiftUi
+
 ![image](https://user-images.githubusercontent.com/72314373/113934627-e8942b80-97ed-11eb-9da6-dee03802dbe3.png)
 - Xcode
+
 ![image](https://user-images.githubusercontent.com/72314373/113934660-efbb3980-97ed-11eb-899c-65438ef5a38c.png)
 - Microsoft VSC
+
 ![image](https://user-images.githubusercontent.com/72314373/113934679-f5b11a80-97ed-11eb-8e02-f36eb8a7684d.png)
 - Google Firebase
+
 ![image](https://user-images.githubusercontent.com/72314373/113934734-0497cd00-97ee-11eb-913c-792f9b8308d3.png)
 
 ## 👀 我可以編碼的計算機語言
