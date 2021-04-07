@@ -53,13 +53,14 @@
 
 ## 💻 我使用的操作系統
 - Windows
-![image](https://user-images.githubusercontent.com/72314373/113932734-c5687c80-97eb-11eb-870c-27da6b03e6af.png)
 
+![image](https://user-images.githubusercontent.com/72314373/113936338-8b997500-97ef-11eb-8712-2360cd5e3a75.png)
 - macOS
-![image](https://user-images.githubusercontent.com/72314373/113932860-d1ecd500-97eb-11eb-9bcc-bbe1e7ce6b44.png)
 
+![image](https://user-images.githubusercontent.com/72314373/113936383-97853700-97ef-11eb-88ba-3a7b3e0a1056.png)
 - Linux
-![image](https://user-images.githubusercontent.com/72314373/113932918-e29d4b00-97eb-11eb-9818-963104cd041f.png)
+
+![image](https://user-images.githubusercontent.com/72314373/113936413-a1a73580-97ef-11eb-9f5c-2598e1329542.png)
 
 
 ## 📲 聯絡我在 claytonliew.techlabz@gmail.com
