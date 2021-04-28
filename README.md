@@ -63,7 +63,7 @@
 ![image](https://user-images.githubusercontent.com/72314373/113936413-a1a73580-97ef-11eb-9f5c-2598e1329542.png)
 
 
-## 📲 聯絡我在 claytonliew.techlabz@gmail.com
+## 📲 聯絡我在 claytonliew22gmail.com
 
 
 <!---
