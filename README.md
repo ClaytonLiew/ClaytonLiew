@@ -1,5 +1,5 @@
-## 👋 您好，我是 @14041980ClaytonChenxiLiew**
-## 👩‍💻 我開發技術並與之互動
+## 👋 Hi there I am Clayton Liew**
+## 👩‍💻 Technolgies that I use, develop and interact with
 - SwiftUi
 
 ![image](https://user-images.githubusercontent.com/72314373/113934627-e8942b80-97ed-11eb-9da6-dee03802dbe3.png)
@@ -13,7 +13,7 @@
 
 ![image](https://user-images.githubusercontent.com/72314373/113934734-0497cd00-97ee-11eb-913c-792f9b8308d3.png)
 
-## 👀 我可以編碼的計算機語言
+## 👀 Languages that I can understand and Code 
 - HTML
 
 ![image](https://user-images.githubusercontent.com/72314373/113935430-7708ad00-97ee-11eb-9c35-8e01e449f48d.png)
@@ -39,7 +39,7 @@
 
 
 
-## 👨‍🏫 我目前正在學語言... 
+## 👨‍🏫 Languages I am currently learning
 - PHP
 
 ![image](https://user-images.githubusercontent.com/72314373/113936101-3fe6cb80-97ef-11eb-8d51-2b8644779f7e.png)
@@ -51,7 +51,7 @@
 ![image](https://user-images.githubusercontent.com/72314373/113936218-63aa1180-97ef-11eb-9090-56209d32e167.png)
 
 
-## 💻 我使用的操作系統
+## 💻 Softwares that I can use
 - Windows
 
 ![image](https://user-images.githubusercontent.com/72314373/113936338-8b997500-97ef-11eb-8712-2360cd5e3a75.png)
@@ -63,7 +63,7 @@
 ![image](https://user-images.githubusercontent.com/72314373/113936413-a1a73580-97ef-11eb-9f5c-2598e1329542.png)
 
 
-## 📲 聯絡我在 claytonliew22@gmail.com
+## 📲 Contact me at claytonliew22@gmail.com
 
 
 <!---
