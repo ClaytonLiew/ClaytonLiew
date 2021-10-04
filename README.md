@@ -31,8 +31,7 @@
 ![image](https://user-images.githubusercontent.com/72314373/113935724-c7800a80-97ee-11eb-9bb2-f2c8b3deab30.png)
 - Go
 
-![image](https://user-images.githubusercontent.com/72314373/135926520-73ff88e4-35ea-4ee9-95e1-d329acfd6474.png)
-
+![image](https://user-images.githubusercontent.com/72314373/135926713-f53c83b8-ea9d-4819-918d-d89d7ba3250a.png)
 
 
 ## 💻 Softwares that I can use
