@@ -31,24 +31,7 @@
 ![image](https://user-images.githubusercontent.com/72314373/113935724-c7800a80-97ee-11eb-9bb2-f2c8b3deab30.png)
 - Go
 
-![image](https://user-images.githubusercontent.com/72314373/113935756-d1a20900-97ee-11eb-8fa9-9f6a81591c32.png)
-- C#
 
-![image](https://user-images.githubusercontent.com/72314373/113935892-fe562080-97ee-11eb-82d7-25b2ccf87c67.png)
-
-
-
-
-## 👨‍🏫 Languages I am currently learning
-- PHP
-
-![image](https://user-images.githubusercontent.com/72314373/113936101-3fe6cb80-97ef-11eb-8d51-2b8644779f7e.png)
-- Vue.js
-
-![image](https://user-images.githubusercontent.com/72314373/113936126-4bd28d80-97ef-11eb-9a5d-d751264d4cf7.png)
-- React.js
-
-![image](https://user-images.githubusercontent.com/72314373/113936218-63aa1180-97ef-11eb-9090-56209d32e167.png)
 
 
 ## 💻 Softwares that I can use
