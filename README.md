@@ -19,9 +19,7 @@
 - Swift
 
 ![image](https://user-images.githubusercontent.com/72314373/139533429-460db67b-7d8a-4b18-86a5-3057c41535b1.png)
-- C#
 
-![image](https://user-images.githubusercontent.com/72314373/139533451-4014a030-c791-4b32-bc7d-e2693725c0b9.png)
 
 
 
