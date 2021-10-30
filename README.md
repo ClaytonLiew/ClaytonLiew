@@ -1,17 +1,4 @@
 ## 👋 Hi there I am Clayton Liew**
-## 👩‍💻 Technolgies that I use, develop and interact with
-- SwiftUi
-
-![image](https://user-images.githubusercontent.com/72314373/113934627-e8942b80-97ed-11eb-9da6-dee03802dbe3.png)
-- Xcode
-
-![image](https://user-images.githubusercontent.com/72314373/113934660-efbb3980-97ed-11eb-899c-65438ef5a38c.png)
-- Microsoft VSC
-
-![image](https://user-images.githubusercontent.com/72314373/113934679-f5b11a80-97ed-11eb-8e02-f36eb8a7684d.png)
-- Google Firebase
-
-![image](https://user-images.githubusercontent.com/72314373/113934734-0497cd00-97ee-11eb-913c-792f9b8308d3.png)
 
 ## 👀 Languages that I can understand and Code 
 - HTML
@@ -29,9 +16,13 @@
 - C++
 
 ![image](https://user-images.githubusercontent.com/72314373/113935724-c7800a80-97ee-11eb-9bb2-f2c8b3deab30.png)
-- Go
+- Swift
 
-![image](https://user-images.githubusercontent.com/72314373/135926713-f53c83b8-ea9d-4819-918d-d89d7ba3250a.png)
+![image](https://user-images.githubusercontent.com/72314373/139533429-460db67b-7d8a-4b18-86a5-3057c41535b1.png)
+- C#
+
+![image](https://user-images.githubusercontent.com/72314373/139533451-4014a030-c791-4b32-bc7d-e2693725c0b9.png)
+
 
 
 ## 💻 Softwares that I can use
