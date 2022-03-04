@@ -1,12 +1,6 @@
 ## 👋 Hi there I am Clayton Liew**
 
 ## 👀 Languages that I can understand and Code 
-- HTML
-
-![image](https://user-images.githubusercontent.com/72314373/113935430-7708ad00-97ee-11eb-9c35-8e01e449f48d.png)
-- CSS
-
-![image](https://user-images.githubusercontent.com/72314373/113935482-87208c80-97ee-11eb-9b3c-001e8b7650d2.png)
 - JavaScript
 
 ![image](https://user-images.githubusercontent.com/72314373/113935562-9acbf300-97ee-11eb-928d-e108211ca252.png)
