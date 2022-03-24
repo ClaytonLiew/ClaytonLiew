@@ -10,14 +10,14 @@
 - C++
 
 ![image](https://user-images.githubusercontent.com/72314373/113935724-c7800a80-97ee-11eb-9bb2-f2c8b3deab30.png)
-- Swift
+- Go
 
-![image](https://user-images.githubusercontent.com/72314373/139533429-460db67b-7d8a-4b18-86a5-3057c41535b1.png)
-
-
+![image](https://user-images.githubusercontent.com/72314373/159996432-ac993bde-2579-41f1-994d-785b571a6d4d.png)
 
 
-## 💻 Softwares that I can use
+
+
+## 💻 Tools that I can use
 - Windows
 
 ![image](https://user-images.githubusercontent.com/72314373/113936338-8b997500-97ef-11eb-8712-2360cd5e3a75.png)
